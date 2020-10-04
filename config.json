@@ -1,0 +1,11 @@
+{
+    "token": "token here",
+    "password": "any password u want here",
+    "prefix": "prefix",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/bandman",
+    "tts_language": "en"
+}
